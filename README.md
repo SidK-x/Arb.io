@@ -1,7 +1,7 @@
 # Arb.io
 ARBITRAGE ||  Streamlined for core finance engine
 ## Exploration
- High-frequency financial primitives. Optimized for alpha. Designed for high-precision financial modeling, it prioritizes low-latency execution and memory-efficient data structures to handle portfolio management.
+ High-frequency financial primitives. Designed & Optimized for precision financial modeling, it prioritizes low-latency execution and memory-efficient data structures to handle portfolio management.
  ## Scope
 - Risk and return metrics, portfolio construction and allocation
 - Market Mechanics, diversification and correlation and trade execution logic.
